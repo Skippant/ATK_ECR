@@ -19,8 +19,8 @@ Rust code, how to trigger react to callbacks, get and set properties and use bas
     ```
 3. Set up a sample project with this template
     ```
-    cargo generate --git https://github.com/slint-ui/slint-rust-template --name ATK_ECR
-    cd my-project
+    cargo generate --git https://github.com/Skippant/ATK_ECR.git --name ATK_ECR
+    cd ATK_ECR
     ```
 3. Build with cargo
     ```
